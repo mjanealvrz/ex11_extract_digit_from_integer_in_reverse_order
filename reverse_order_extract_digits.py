@@ -3,12 +3,13 @@
 
 # Pseudocode
 
-
+number = 789056
+print("The given number is:", number)
 
 # Loop until the number becomes 0
 
     # Get the last digit
-    
+
     
     # Remove the last digit and repeat the loop
    
