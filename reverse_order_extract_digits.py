@@ -1,4 +1,17 @@
 #  Write a Program to extract each digit from an integer in the reverse order.
 #For example, If the given int is 7536, the output shall be “6 3 5 7“, with a space separating the digits.
 
+# Pseudocode
 
+
+
+# Loop until the number becomes 0
+
+    # Get the last digit
+    
+    
+    # Remove the last digit and repeat the loop
+   
+    
+    # Print the digit with a space (end=" ") to display them on the same line
+    
