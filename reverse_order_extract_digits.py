@@ -15,4 +15,4 @@ while number > 0:
     number = number // 10
     
     # Print the digit with a space (end=" ") to display them on the same line
-    print(digit, end=" ")
+   
